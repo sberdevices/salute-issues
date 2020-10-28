@@ -5,5 +5,5 @@
 ## Здесь вы можете
 
 1. [Посмотреть прогресс](https://github.com/sberdevices/salute-issues/projects/1) по тикетам проекта.
-2. [Оценить/проголовать/прокомментировать](https://github.com/sberdevices/salute-issues/issues) интересующие вас тикеты.
+2. [Оценить/проголосовать/прокомментировать](https://github.com/sberdevices/salute-issues/issues) интересующие вас тикеты.
 3. [Создать тикет](https://github.com/sberdevices/salute-issues/issues/new) по собственному предложению/проблеме или вопросу.
